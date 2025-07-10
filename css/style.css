@@ -629,6 +629,15 @@ h1 {
     margin: 0 auto;
 }
 
+.SendMessage{
+    width: 100px;
+    cursor: pointer;
+    background-color: #bfbfbf;
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 40px;
+}
+
 .contact-form h4 {
     text-align: center;
     font-style: italic;
